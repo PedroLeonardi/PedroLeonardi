@@ -9,7 +9,7 @@
 </div>
 
 ## Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
           
 <!--
 **PedroLeonardi/PedroLeonardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
