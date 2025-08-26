@@ -3,9 +3,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div align="center">
-  
-![PedroLeonardi's Stats](https://github-readme-stats.vercel.app/api?username=PedroLeonardi&theme=radical&show_icons=true&hide_border=false&count_private=false)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroLeonardi&layout=compact&langs_count=5&theme=radical&hide_border=false" height="150" alt="Minhas principais linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroLeonardi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroLeonardi&layout=compact&langs_count=5&theme=radical&hide_border=false" height="150" />
 </div>
 
 <div align="center">
