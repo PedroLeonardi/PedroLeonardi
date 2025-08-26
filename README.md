@@ -1,6 +1,6 @@
 ## Olá, me chamo Pedro Leonardi 👋
 🎓 **Bacharelado em Engenharia da Computação** — FESA (1º semestre)  
-💻 **Técnico em Análise de Sistemas** — SENAI (3º semestre)  
+💻 **Técnico em Desenvolvimento de Sistemas** — SENAI (3º semestre)  
 <!-- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 -->
 <div align="center">
