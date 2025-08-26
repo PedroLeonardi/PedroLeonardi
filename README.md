@@ -12,7 +12,7 @@
 </div>
 
 ## Tecnologias
-<div contente="flex" gap=3>
+<div contente="flex" gap=15>
 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" />
