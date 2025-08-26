@@ -2,10 +2,16 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?PedroLeonardi&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?PedroLeonardi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  
+![PedroLeonardi's Stats](https://github-readme-stats.vercel.app/api?username=PedroLeonardi&theme=radical&show_icons=true&hide_border=false&count_private=false)
+
+</div>
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeonardi&layout=donut&theme=radical&hide=hack,html)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ## Tecnologias
